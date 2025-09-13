@@ -5,7 +5,7 @@
     "description": "Launcher Mincraft pour le serveur Amitrix",
     "main": "src/app.js",
     "author": {
-        "name": "Amitron, Inc.",
+        "name": "Amitron",
         "email": "contact@amitron.fr",
         "url": "https://github.com/Amitron-Dev"
     },
